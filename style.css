@@ -1,0 +1,35 @@
+html,
+body,
+header,
+.hero-section {
+    height: 100%;
+}
+
+.navbar {
+    background-color: darkblue;
+}
+
+.navbar-brand {
+    width: 22px;
+}
+
+.hero-section {
+    background-image: url('images/hero_berlin.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;
+}
+
+.hero-section-text {
+    height: 100vh;
+}
+
+.hero-h1 {
+    letter-spacing: 1rem;
+}
+
+.hero-hr {
+    height: .1rem;
+    background-color: #fff;
+}
+
+.hero-h5 {
+    letter-spacing: .4rem;
+}
